@@ -1,5 +1,5 @@
 # Pokedex
-[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE](https://github.com/IZUKUONE/jorge-readme/blob/main/LICENSE)) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/IZUKUONE/Pokedex/blob/main/LICENSE) 
 
 # Sobre o projeto
 
