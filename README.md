@@ -10,7 +10,7 @@ Pokedex é uma aplicação full stack construida no intuito de mostrar os pokemo
 A aplicação consiste no usuário usar o número ou o nome do pokemon de sua preferência, assim sendo mostrado o sua imagem e se ele tem na pokedex 
 
 ## Layout mobile
-
+![img02](https://github.com/IZUKUONE/Pokedex/assets/90990711/ddb12a1e-f946-4951-a6ff-30dc1f387b99)
 
 ## Layout web
 
