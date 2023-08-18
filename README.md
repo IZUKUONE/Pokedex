@@ -33,4 +33,5 @@ A aplicação consiste no usuário usar o número ou o nome do pokemon de sua pr
 
 Jorge Luis de Carvalho Alves 
 
+## LinkedIn
 https://www.linkedin.com/in/jorge--carvalho/
