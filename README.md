@@ -16,8 +16,6 @@ A aplicação consiste no usuário usar o número ou o nome do pokemon de sua pr
 
 ![img01](https://github.com/IZUKUONE/Pokedex/assets/90990711/3ae28787-f6e0-4913-b07e-3f84bf8c8953)
 
-## Modelo conceitual
-
 # Tecnologias utilizadas
 ## Back end
 - JavaScript
