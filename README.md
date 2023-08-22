@@ -5,7 +5,6 @@
 
 https://izukuone.github.io/Pokedex/
 
-
 Pokedex é uma aplicação full stack construida no intuito de mostrar os pokemons que temos atualmente. 
 
 A aplicação consiste no usuário usar o número ou o nome do pokemon de sua preferência, assim sendo mostrado o sua imagem e se ele tem na pokedex 
